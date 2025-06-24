@@ -5,6 +5,8 @@ while 1>0:
     #Name
     print('직원 이름? (namae wa xXCrinje_Master64209Xx)')
     Name=str(input())
+    if Name.lower() == 'frodo':
+    print("The salary is not for you, Frodo. But it is your burden to bear.")
     #Jungkook Oath
     print('이제 당신은 정국에게 대답할 때 진실을 말할 것을 맹세해야 합니다')
     print('_________________________________________________________')
