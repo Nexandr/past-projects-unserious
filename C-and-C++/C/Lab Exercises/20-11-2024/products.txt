@@ -1,0 +1,5 @@
+Keyboard 20 4000.00 2
+Mouse 40 1100.00 4
+CPU Units 3813 45000.00 20
+Laptop 1602 74000.00 32
+Batteries 120 390.00 200
